@@ -4,11 +4,11 @@ NYCU Software Testing Lab3
 
 ![](https://travis-ci.com/dcfvgb123456/310555021.svg?branch=main)
 
-![](screenshots/pass_status.png)
-![](screenshots/pass.png)
+![](screenshots/pass_status.PNG)
+![](screenshots/pass.PNG)
 
 
-![](screenshots/failed_status.png)
-![](screenshots/fail.png)
+![](screenshots/failed_status.PNG)
+![](screenshots/fail.PNG)
 
 
